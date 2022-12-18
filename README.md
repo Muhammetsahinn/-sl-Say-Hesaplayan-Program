@@ -1,1 +1,4 @@
-# -sl-Say-Hesaplayan-Program
+# Üslü-Sayi-Hesaplayan-Program
+
+
+#https://app.patika.dev/emmiboy
